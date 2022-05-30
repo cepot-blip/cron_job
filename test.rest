@@ -1,0 +1,9 @@
+###
+
+POST http://localhost:9000/api/token_create
+Content-Type: "application/json"
+
+{
+    "email" : "cepot@gmail.com",
+    "password" : "qwedcrtyhn"
+}
